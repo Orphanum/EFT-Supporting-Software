@@ -1,0 +1,340 @@
+{
+    "airFilteringUnit": {
+        "level 1": {
+            "usd": 10000,
+            "vents": 3,
+            "generator": 3,
+            "skier": 3
+        }
+    },
+    "bitcoinFarm": {
+        "level 1": {
+            "cpuFan": 10,
+            "psu": 5,
+            "powercord": 5,
+            "electricDrill": 1,
+            "intelligenceCenter": 2
+        },
+        "level 2": {
+            "cpuFan": 15,
+            "psu": 5,
+            "pcb": 5,
+            "pRelay": 2,
+            "generator": 3
+        },
+        "level 3": {
+            "cpuFan": 25,
+            "tube": 10,
+            "eMotor": 1,
+            "pGauge": 2,
+            "solarPower": 1
+        }
+    },
+    "boozeGenerator": {
+        "level 1": {
+            "tube": 4,
+            "therm": 2,
+            "pressureGause": 2,
+            "hose": 5,
+            "waterCollector": 3,
+            "nutritionUnit": 3
+        }
+    },
+    "generator": {
+        "level 1": {
+            "rub": 100000
+        },
+        "level 2": {
+            "security": 2,
+            "vents": 2,
+            "pRelay": 5,
+            "eMotor": 1,
+            "wires": 15
+        },
+        "level 3": {
+            "security": 3,
+            "vents": 3,
+            "pRelay": 6,
+            "eMotor": 2,
+            "sparkPlug": 5,
+            "psu": 5,
+            "mechanic": 3
+        }
+    },
+    "heating": {
+        "level 1": {
+            "rub": 25000
+        },
+        "level 2": {
+            "rub": 50000,
+            "endurance": 2
+        },
+        "level 3": {
+            "generator": 2,
+            "workbench": 2,
+            "radiatorHelix": 8,
+            "wires": 8,
+            "ragman": 2
+        }
+    },
+    "illumination": {
+        "level 1": {
+            "rub": 10000
+        },
+        "level 2": {
+            "lightBulb": 14,
+            "wires": 5,
+            "generator": 1
+        },
+        "level 3": {
+            "rub": 50000,
+            "capacitors": 7,
+            "generator": 2,
+            "mechanic": 2
+        }
+    },
+    "intelligenceCenter": {
+        "level 1": {
+            "intelligence": 1,
+            "security": 2,
+            "vents": 2
+        },
+        "level 2": {
+            "intelligence": 3,
+            "flashDrive": 3,
+            "powerCord": 4,
+            "damagedHardDrive": 4,
+            "security": 3,
+            "medstation": 3,
+            "nutritionUnit": 3,
+            "mechanic": 2,
+            "attention": 3
+        },
+        "level 3": {
+            "cofdm": 2,
+            "vpx": 2,
+            "gasAnalyzer": 3,
+            "militaryCable": 4,
+            "generator": 3,
+            "prapor": 3
+        }
+    },
+    "lavatory": {
+        "level 1": {
+            "rub": 2000
+        },
+        "level 2": {
+            "hose": 3,
+            "screw": 5,
+            "electricDrill": 1,
+            "waterCollector": 1
+        },
+        "level 3": {
+            "waterCollector": 2,
+            "hose": 6,
+            "pGauge": 2,
+            "sTools": 1,
+            "xenomorph": 3
+        }
+    },
+    "library": {
+        "level 1": {
+            "rub": "400000",
+            "memory": 8,
+            "restSpace": 3
+        }
+    },
+    "medstation": {
+        "level 1": {
+            "rub": 25000
+        },
+        "level 2": {
+            "rub": 50000,
+            "bloodset": 1,
+            "saline": 3,
+            "therapist": 2,
+            "health": 2
+        },
+        "level 3": {
+            "rub": 150000,
+            "saline": 5,
+            "ledx": 1,
+            "therapist": 3,
+            "skier": 2,
+            "vitality": 3
+        }
+    },
+    "nutritionUnit": {
+        "level 1": {
+            "rub": 25000,
+            "pRelay": 2,
+            "generator": 1
+        },
+        "level 2": {
+            "wrench": 4,
+            "hose": 2,
+            "alkali": 2,
+            "pRelay": 1,
+            "lavatory": 2
+        },
+        "level 3": {
+            "rub": 125000,
+            "majaica": 3,
+            "sodium": 3,
+            "metabolism": 3,
+            "generator": 2,
+            "lavatory": 3,
+            "stash": 2
+        }
+    },
+    "restSpace": {
+        "level 1": {
+            "rub": 10000
+        },
+        "level 2": {
+            "rub": 35000,
+            "generator": 2,
+            "heating": 2,
+            "ragman": 2
+        },
+        "level 3": {
+            "powercord": 4,
+            "capacitors": 5,
+            "wires": 7,
+            "usd": 3000,
+            "generator": 3,
+            "skier": 3
+        }
+    },
+    "scavCase": {
+        "level 1": {
+            "lion": 2,
+            "skullRing": 2,
+            "goldNeck": 6,
+            "goldWatch": 3,
+            "intelligenceCenter": 2
+        }
+    },
+    "security": {
+        "level 1": {
+            "rub": 20000
+        },
+        "level 2": {
+            "rub": 45000,
+            "endurance": 2
+        },
+        "level 3": {
+            "wLCD": 2,
+            "wires": 4,
+            "nixxor": 8,
+            "ssd": 1,
+            "illumination": 3,
+            "mechanic": 2
+        }
+    },
+    "shootingRange": {
+        "level 1": {
+            "illumination": 2,
+            "nails": 4,
+            "screwNut": 5,
+            "bolts": 5,
+            "ductTape": 3
+        }
+    },
+    "solarPower": {
+        "level 1": {
+            "eur": 15000,
+            "generator": 3,
+            "workbench": 3,
+            "peacekeeper": 4
+        }
+    },
+    "stash": {
+        "level 1": {
+            "rub": 3500000,
+            "handDrill": 1,
+            "screws": 7,
+            "wd-40": 4
+        },
+        "level 2": {
+            "heating": 2,
+            "vents": 2,
+            "electricDrill": 2,
+            "screws": 8,
+            "prapor": 3,
+            "ragman": 3
+        },
+        "level 3": {
+            "generator": 3,
+            "workbench": 3,
+            "heating": 3,
+            "intelligence": 3,
+            "eur": 150000,
+            "peacekeeper": 4,
+            "ragman": 4
+        }
+    },
+    "vents": {
+        "level 1": {
+            "rub": 25000
+        },
+        "level 2": {
+            "eMotor": 1,
+            "carBattery": 1
+        },
+        "level 3": {
+            "eMotor": 2,
+            "wires": 8,
+            "pcb": 3,
+            "carBattery": 8,
+            "generator": 2,
+            "strength": 3
+        }
+    },
+    "waterCollector": {
+        "level 1": {
+            "hose": 4,
+            "bolts": 5,
+            "screwNut": 5,
+            "ductTape": 3
+        },
+        "level 2": {
+            "hose": 6,
+            "eMotor": 2,
+            "sTools": 2,
+            "workbench": 2,
+            "jaeger": 2,
+            "attention": 3
+        },
+        "level 3": {
+            "rub": 125000,
+            "pliersElite": 2,
+            "shustrilo": 5,
+            "generator": 3,
+            "jaeger": 3
+        }
+    },
+    "workbench": {
+        "level 1": {
+            "screwNut": 2,
+            "bolts": 2,
+            "multitool": 1
+        },
+        "level 2": {
+            "illumination": 2,
+            "sTools": 3,
+            "electricDrill": 2,
+            "bolts": 6,
+            "mechanic": 2
+        },
+        "level 3": {
+            "mechanic": 3,
+            "rub": 195000,
+            "pliersElite": 2,
+            "fireKlean": 1,
+            "stash": 2
+        }
+    }
+
+
+}

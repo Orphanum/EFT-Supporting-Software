@@ -1,0 +1,74 @@
+{
+    "physical": {
+        "endurance": "Endurance",
+        "health": "Health",
+        "immunity": "Immunity",
+        "metabolism": "Metabolism",
+        "strength": "Strength",
+        "vitality": "Vitality",
+        "stressResistance": "Stress Resistance"
+    },
+    "mental": {
+        "attention": "Attention",
+        "charisma": "Charisma",
+        "intellect": "Intellect",
+        "memory": "Memory",
+        "perception": "Perception"
+    },
+    "combat": {
+        "assaultRifle": "Assault Rifle",
+        "dmr": "Designated Marksman Rifle",
+        "throwables": "Throwables",
+        "hmg": "Heavy Machine Gun",
+        "launchers": "Launchers",
+        "lmg": "Light Machine Gun",
+        "melee": "Melee",
+        "pistol": "Pistol",
+        "recoilControl": "Recoil Control",
+        "revolver": "Revolver",
+        "shotgun": "Shotgun",
+        "smg": "Submachine Gun",
+        "sniper": "Sniper Rifles",
+        "underbarrelLauncher": "Underbarrel Launchers"
+    },
+    "practical": {
+        "advancedModding": "Advanced Modding",
+        "auction": "Auctions",
+        "barter": "Barter",
+        "firstAid": "First Aid",
+        "weaponModding": "Weapon Modding",
+        "cleanOperations": "Clean Operations",
+        "covertMovement": "Covert Movement",
+        "fieldMedicine": "Field Medicine",
+        "freeTrading": "Free Trading",
+        "heavyVest": "Heavy Vests",
+        "lightVest": "Light Vests",
+        "lockpicking": "Lockpicking",
+        "nightOperations": "Night Operations",
+        "proneMovement": "Prone Movement",
+        "searching": "Searching",
+        "shadowConnection": "Shadow Connection",
+        "silentOperations": "Silent Operations",
+        "sniping": "Sniping",
+        "taskPerformance": "Task Performance",
+        "weaponMaintenance": "Weapon Maintenance",
+        "magDrills": "Mag Drills"
+    },
+    "special": {
+        "bear": {
+            "bearAK": "Bear AK Systems",
+            "bearAssault": "Bear Assault Operations",
+            "bearAuthority": "Bear Authority",
+            "bearHeavy": "Bear Heavy Caliber",
+            "bearRaw": "Bear Raw Power"
+        },
+        "usec": {
+            "usecAR": "USEC AR Systems",
+            "usecDeep": "USEC Deep Weapon Handling",
+            "usecLong": "USEC Long Range Optics",
+            "usecNeg": "USEC Negotiations",
+            "usecTac": "USEC Tactics"
+        }
+
+    }
+}

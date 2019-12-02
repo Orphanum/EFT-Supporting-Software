@@ -1,0 +1,22 @@
+{
+  "airFilteringUnit": "Air Filtering Unit",
+  "bitcoinFarm": "Bitcoin Farm",
+  "boozeGenerator": "Booze Generator",
+  "generator": "Generator",
+  "heating": "Heating",
+  "illumination": "Illumination",
+  "intelligenceCenter": "Intelligence Center",
+  "lavatory": "Lavatory",
+  "library": "Library",
+  "medstation": "Medstation",
+  "nutritionUnit": "Nutrition Unit",
+  "restSpace": "Rest Space",
+  "scavCase": "Scav Case",
+  "security": "Security",
+  "shootingRange": "Shooting Range",
+  "solarPower": "Solar Power",
+  "stash": "Stash",
+  "vents": "Vents",
+  "waterCollector": "Water Collector",
+  "workbench": "Workbench"
+}

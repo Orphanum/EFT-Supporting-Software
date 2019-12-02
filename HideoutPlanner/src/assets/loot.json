@@ -57,8 +57,6 @@
             "bulb": "Light bulb",
             "helix": "Radiator Helix",
             "pRelay": "Phase Control Relay"
-
-
         },
         "valuable": {
             "horse": "A Horse Figurine",
@@ -76,7 +74,6 @@
             "prokill": "Chain with Prokill Medallion",
             "gp": "GP Coin",
             "skullRing": "Gold Skull Ring"
-
         },
         "building": {
             "hose": "Corrugated Hose",
@@ -173,8 +170,6 @@
             "opht": "Ophthalmoscope",
             "meds": "Pile of Meds",
             "syringe": "Disposable Syringe"
-
         }
-
     }
 }
